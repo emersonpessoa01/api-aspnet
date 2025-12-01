@@ -1,4 +1,4 @@
-# API com ASP.NET Core 5 e MySQL
+# API com ASP.NET Core 9 e MySQL
 
 <div align="center">
 <img src="image/NET_Core_Logo.svg.png" width="30%" alt="Logo ASP.NET"/>    
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# API com ASP.NET Core 5 e MySQL
+# API com ASP.NET Core 9 e MySQL
 
 Instrutor: Ralf Schweder de Lima
 
@@ -15,7 +15,7 @@ Instrutor: Ralf Schweder de Lima
 
 </div>
 
-Repositório destinado aos arquivos do curso de Criando API's com ASP.NET Core 5 e MySQL do canal no YouTube, [clique aqui](https://www.youtube.com/watch?v=6Rn3sI3GP50&list=PLWXw8Gu52TRKoaiSaZVIKOHaAoHMeuzu1) para acessar a playlist completa.
+Repositório destinado aos arquivos do curso de Criando API's com ASP.NET Core 9 e MySQL do canal no YouTube, [clique aqui](https://www.youtube.com/watch?v=6Rn3sI3GP50&list=PLWXw8Gu52TRKoaiSaZVIKOHaAoHMeuzu1) para acessar a playlist completa.
 
 ---
 
